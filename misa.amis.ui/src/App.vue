@@ -34,4 +34,8 @@ export default {
   font-family: "MISA-Italic";
   src: url("./assets/fonts/notosans-italic.1c1aaac9.woff2");
 }
+@font-face {
+  font-family: "MISA-Semibold";
+  src: url("./assets/fonts/notosans-semibold.df3e6dc4.woff2");
+}
 </style>
